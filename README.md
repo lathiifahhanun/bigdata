@@ -14,8 +14,8 @@ Dataset diambil dari tautan berikut : [Spotify Song](https://github.com/rfordata
 ## Library
 Library yang digunakan yaitu [pandas](https://pandas.pydata.org/) untuk memanipulasi dan menganalisa data, [matplotlib](https://matplotlib.org/) untuk membuat visualisasi, animasi, [seaborn](https://seaborn.pydata.org/) untuk visualiasi dari statistik berdasarkan matplotlib, dan [sklearn](https://pypi.org/project/scikit-learn/) untuk preprocessing data, termasuk penskalaan dan pengkodean.
 
-## 
-## Langkah Analisis
+
+## Exploratory Data Analysis(EDA) & Preprocessing
 Analisis dimulai dengan Exploratory Data Analysis (EDA) yang bertujuan untuk memahami data secara mendalam, memungkinkan kita untuk mendapatkan gambaran umum tentang data, dengan memeriksa tipe data dan ringkasan statistik, dan memahami hubungan antara variabel-variabel.
 
 Lalu dilakukan Preprocessing yaitu pengecekan nilai hilang (_missing value_) dan mengisi nilai yang hilang dengan modus dari masing-masing kolom. 
